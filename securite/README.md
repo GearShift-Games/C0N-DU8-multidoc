@@ -1,3 +1,3 @@
 # Mesures d'urgences
 
-![Urgences medicales](img/securite.png)
+![Urgences medicales](img/secure.png)
