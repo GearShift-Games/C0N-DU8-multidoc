@@ -1,5 +1,5 @@
 
-#  Devis Technique
+# Devis Technique
 ### Équipements fournis par le Cégep
 - 1x Projecteur Ultra Short 
 - 1x Vélo Stationnaire modifié 
