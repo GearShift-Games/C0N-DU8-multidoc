@@ -1,29 +1,29 @@
 # Contrôle de Qualité
-# Paragraphe de présentation
+## Paragraphe de présentation
 
 
 CON D83 (conduite) est un jeu de course interactif intense plein de rebondissements et légèrement humoristique dans lequel l'utilisateur contrôle son véhicule à l'aide d'un vélo stationnaire.
 
-# MVP (Minimal Viable Product)
+## MVP (Minimal Viable Product)
 
-## Visuel
+### Visuel
 
 - Un modèle de véhicule simple
 - Un circuit de course simple
 - Un UI simple
 
-## Audio
+### Audio
 
 - Musique d'ambiance
 - bruits de véhicule
 
-## Interactivité
+### Interactivité
 
 - Mouvements détectés par senseurs
 - Frein fonctionel
 - Fin de la course
 
-## Matériel
+### Matériel
 
 - 1 Projecteur
 - 1 Vélo Stationnaire
@@ -34,13 +34,13 @@ CON D83 (conduite) est un jeu de course interactif intense plein de rebondisseme
  
 
 
-# [Lien GitHub](https://github.com/GearShift-Games/CON-D83/tree/main)
+## [Lien GitHub](https://github.com/GearShift-Games/CON-D83/tree/main)
 
-# Date de livraison des test :
+## Date de livraison des test :
 
-### 28 Février 2025
+#### 28 Février 2025
 
-# Risques:
+## Risques:
 
 - R1: Détection des mouvements de l'utilisateur marche pas(tourner)
 - R2: Détection des pédales marche pas
@@ -68,8 +68,8 @@ Pour réduire les chances de blessure de l'utilisateur, nous allons tester par n
 
 Si il y a un bris de matériel ou une partie du projet trop usé et que l'on doit la remplacer, nous aurons des pièces de rechange. (R10)
 
-# Tests à réaliser
-## Scénarios
+## Tests à réaliser
+### Scénarios
  
 | Scénario 1 | L'utilisateur n'a pas encore été détecté par le capteur. Il voit un avant-goût de l'oeuvre par une vidéo en boucle projeter à l'écran.  |
 |------------|---|
