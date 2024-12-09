@@ -73,7 +73,7 @@ Si il y a un bris de matériel ou une partie du projet trop usé et que l'on doi
  
 | Scénario 1 | L'utilisateur n'a pas encore été détecté par le capteur. Il voit un avant-goût de l'oeuvre par une vidéo en boucle projeter à l'écran.  |
 |------------|---|
- <br>
+
 | Identification    | 1.1  Projection déclanché par défault|
 |-------------------|---|
 | Priorité          | Faible  |
@@ -83,10 +83,10 @@ Si il y a un bris de matériel ou une partie du projet trop usé et que l'on doi
 | Dépendances       | S'assurer que le l'ordinateur et la projection communiquent en harmonie.  |
 | Procédure de test |  Données d’entrée : Vidéo de départ Résultats attendus : Projection de la vidéo. Critères de validation : On voit la vidéo. |
 | Résultat          |   |
- <br>
+ 
 | Scénario 2 |  L'utilisateur est détecté par le capteur.|
 |------------|---|
- <br>
+ 
 | Identification    | 2.1  Vidéo arrêter par la détection de l'interracteur|
 |-------------------|---|
 | Priorité          | Faible |
@@ -96,7 +96,7 @@ Si il y a un bris de matériel ou une partie du projet trop usé et que l'on doi
 | Dépendances       | S'assurer que le capteur et la projection communiquent en harmonie.  |
 | Procédure de test | Données d’entrée : Vidéo de départ, entrée de l'utilisateur Résultats attendus : Projection de la vidéo interrompu par la présence de l'utilisateur. Critères de validation : Vidéo interrompu, le menu apparâit. |
 | Résultat          |   |
- <br>
+
 | Identification    | 2.2  L'utilisateur n'est plus détecté par le capteur. La vidéo du départ reviens
 |-------------------|---|
 | Priorité          | Faible  |
@@ -106,10 +106,10 @@ Si il y a un bris de matériel ou une partie du projet trop usé et que l'on doi
 | Dépendances       | S'assurer que le capteur, l'ordinateur et la projection communiquent en harmonie.  |
 | Procédure de test | Données d’entrée : Menu principal, départ de l'utilisateur Résultats attendus : Compte à rebourd lancé . Critères de validation : La vidéo par défault reprend ou elle c'était arrêtée 10 secondes apres le départ de l'utilisateur |
 | Résultat          |   |
- <br>
+ 
 | Scénario 3 | L'utilisateur interragit avec le menu.  |
 |------------|---|
- <br>
+ 
 | Identification    | 3.1  Choix du véhicule|
 |-------------------|---|
 | Priorité          | Faible  |
@@ -119,7 +119,7 @@ Si il y a un bris de matériel ou une partie du projet trop usé et que l'on doi
 | Dépendances       | S'assurer que les boutons additionnels puissent communiquer parfaitement avec l'ordinateur.  |
 | Procédure de test | Données d’entrée : Interaction utilisateur. Résultats attendus : Modifications visuels du véhicules. Critères de validation : On voit les modifications à l'écran. |
 | Résultat          |   |
- <br>
+ 
 | Identification    | 3.2  Départ de la course|
 |-------------------|---|
 | Priorité          | Extrême  |
@@ -129,10 +129,10 @@ Si il y a un bris de matériel ou une partie du projet trop usé et que l'on doi
 | Dépendances       | S'assurer que le menu soit fonctionnel et puisse envoyer d'une façon dynamique la course sélectionnée aux scripts.  |
 | Procédure de test | Données d’entrée : Interraction utilisateur Résultats attendus : Changement de scène Critères de validation : Lancement de la course à l'écran |
 | Résultat          |   |
- <br>
+ 
 | Scénario 4 | L'utilisateur interragit avec le vélo stationnaire  |
 |------------|---|
- <br>
+ 
 | Identification    | 4.1  L'utilisateur pédale|
 |-------------------|---|
 | Priorité          | Extrême  |
@@ -142,7 +142,7 @@ Si il y a un bris de matériel ou une partie du projet trop usé et que l'on doi
 | Dépendances       | Avoir le vélo staionnaire, ce n'est pas quelque chose qui peut être testé avec précision par une simulation.  |
 | Procédure de test | Données d’entrée : Donnés Arduino de mouvement des pédales Résultats attendus : Donnés transformé en vélocité affectant le véhicule. Critères de validation : On voit le véhicule avancé relativement à la vitesse du vélo. |
 | Résultat          |   |
- <br>
+ 
 | Identification    | 4.2  L'utilisateur Freine|
 |-------------------|---|
 | Priorité          | Faible  |
@@ -152,7 +152,7 @@ Si il y a un bris de matériel ou une partie du projet trop usé et que l'on doi
 | Dépendances       | Avoir une connection entre l'ordinateur et le vélo pour processer l'information nécessaire du vélo stationnaire.  |
 | Procédure de test | Données d’entrée : Donnés Arduino de l'actionnement du frein Résultats attendus : Donnés transformé en vélocité affectant le véhicule. Critères de validation : On voit le véhicule ralentir relativement au maintient du frein sur le vélo. |
 | Résultat          |   |
- <br>
+ 
 | Identification    | 4.2  L'utilisateur utilise le turbo|
 |-------------------|---|
 | Priorité          | Faible  |
@@ -162,7 +162,7 @@ Si il y a un bris de matériel ou une partie du projet trop usé et que l'on doi
 | Dépendances       | Avoir la détection du bouton vers l'ordinateur d'un façon très rapide pour ne pas faire que l'utilisateur attend un peu pour un boost qui est supposé amené une certaine satisfaction. |
 | Procédure de test | Données d’entrée : Donnés Arduino de l'actionnement bouton Résultats attendus : Donnés transformé en vélocité affectant le véhicule et neutralisant pendant le temps du turbo la relation entre les pédales et la vélocité. Critères de validation : On voit le véhicule accélérer rapidement pendant 3 secondes. |
 | Résultat          |   |
- <br>
+ 
 | Identification    | 4.3  L'utilisateur se penche afin de tourner|
 |-------------------|---|
 | Priorité          | Extrême  |
@@ -172,4 +172,3 @@ Si il y a un bris de matériel ou une partie du projet trop usé et que l'on doi
 | Dépendances       | Avoir l'appareil installé sur le vélo stationnaire pour pouvoir comprendre comment détecter où l'utilisateur serait s'il n'est pas penché, mais également où il serait quand il est penché. |
 | Procédure de test |  Données d’entrée : Donnés Arduino du capteur Résultats attendus : Donnés transformé en direction gauche/droite affectant la direction du véhicule Critères de validation : Quand l'utilisateur se penche vers la droite/gauche le véhicule tourne dans cette direction. |
 | Résultat          |   |
-<br>
