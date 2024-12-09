@@ -1,6 +1,7 @@
 # Paragraphe de présentation
 
 
+CON D83 (conduite) est un jeu de course interactif intense plein de rebondissements et légèrement humoristique dans lequel l'utilisateur contrôle son véhicule à l'aide d'un vélo stationnaire.
 
 # MVP (Minimal Viable Product)
 
