@@ -66,7 +66,7 @@ Selon le lieu, nous allons vérifier l'éclairage (R8) et l'espace nécessaire p
 
 Pour réduire les chances de blessure de l'utilisateur, nous allons tester par nous même des scénario et des possibilité de blessure et nous allons nous informé des information nécessaire avec les gardes. Selon le lieu, nous aurons des garde de sécurité pour nous aider et / ou une personne de notre équipe capable de premier soin mineure. (R6) Durant ces test, nous allons voir a quel point une personne peux se pencher avant que le vélo deviennent instable et si le point d'équilibre est trop proche ou restrictif, nous allons trouver une façons de le rendre plus stable. (R7)
 
-Si il y a un bris de matériel ou une partie du projet trop usé et que l'on doit la remplacer, nous aurons des pièces de rechange. (R10)
+Si il y a un bris de matériel ou une partie du projet trop usé et que l'on doit la remplacer, nous aurons des pièces de rechange. (R10) 
 
 ## Tests à réaliser
 ### Scénarios
