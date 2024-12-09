@@ -30,7 +30,7 @@ Il y aurait aussi un bouton à gauche permettant de freiner le véhicule et un a
 ## Intégration au thème global
 Les circuits et les objets disponibles durant les courses auront tous un lien direct avec le thème de [Insert theme here].
 
-# Artisitque
+# Artistique
 ## Ambiance
 https://www.youtube.com/watch?v=Ub-VoLqGcx8
 ## Moodboard
