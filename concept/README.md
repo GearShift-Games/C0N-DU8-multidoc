@@ -181,7 +181,7 @@ La création de jeux vidéos, la modélistion 3D et la programmation, est un rê
 
 je suis motivé par l'idée d'aider les gens à poursuivre une meilleur santé par la proposition d'un jeu qui encourage l'effort physique. je trouve mon que mon équipe est soudé pour ce travail et cette solidarité me pousse à me surpasser au sein de l'équipe. se qui est ma plus grande source de motivation, c'est l'idée de pouvoir inspirer la prochaine génération à avoir de saine habitude de vie tout en s'amusant, car la vie est courte est il est important pour moi de profiter du présent et de notre santé.
 
-## Étude de risques
+## Échéancier
 
 
 ```mermaid
