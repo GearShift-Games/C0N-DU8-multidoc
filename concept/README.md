@@ -31,6 +31,7 @@ Il y aurait aussi un bouton à gauche permettant de freiner le véhicule et un a
 Les circuits et les objets disponibles pendant les courses seront étroitement liés au thème de la Résonance. Chaque élément, qu’il s’agisse des circuits, des véhicules ou encore des effets visuels et sonores, sera conçu pour refléter et mettre en valeur cette thématique centrale.
 
 # Artistique
+![Moodboard.png](img/tableau_ambiances.png)
 ## Ambiance
 https://www.youtube.com/watch?v=Ub-VoLqGcx8
 ## Moodboard
