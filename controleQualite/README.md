@@ -54,7 +54,7 @@ CON D83 (conduite) est un jeu de course interactif intense plein de rebondisseme
 - R10: Un bris / usure de matériel
 - R11: controle du ventilateur selon la vitesse
 
-![img/risques.drawio.png](img/risques.drawio.png)
+![img/risques.drawio.png](../concept/img/risques.drawio.png)
 
 Initialement on vas tester Unreal Engine et si on arrive pas à de manière efficace rapidement, on commence à travailler dans unity. (R5)
 
@@ -69,11 +69,7 @@ Pour réduire les chances de blessure de l'utilisateur, nous allons tester par n
 Si il y a un bris de matériel ou une partie du projet trop usé et que l'on doit la remplacer, nous aurons des pièces de rechange. (R10) 
 
 ## Tests à réaliser
-### Scénarios
- 
-| Scénario 1 | L'utilisateur n'a pas encore été détecté par le capteur. Il voit un avant-goût de l'oeuvre par une vidéo en boucle projeter à l'écran.  |
-|------------|---|
-
+### Scénario 1 : L'utilisateur n'a pas encore été détecté par le capteur. Il voit un avant-goût de l'oeuvre par une vidéo en boucle projeter à l'écran.
 | Identification    | 1.1  Projection déclanché par défault|
 |-------------------|---|
 | Priorité          | Faible  |
@@ -84,9 +80,7 @@ Si il y a un bris de matériel ou une partie du projet trop usé et que l'on doi
 | Procédure de test |  Données d’entrée : Vidéo de départ Résultats attendus : Projection de la vidéo. Critères de validation : On voit la vidéo. |
 | Résultat          |   |
  
-| Scénario 2 |  L'utilisateur est détecté par le capteur.|
-|------------|---|
- 
+### Scénario 2 : L'utilisateur est détecté par le capteur.
 | Identification    | 2.1  Vidéo arrêter par la détection de l'interracteur|
 |-------------------|---|
 | Priorité          | Faible |
@@ -107,9 +101,7 @@ Si il y a un bris de matériel ou une partie du projet trop usé et que l'on doi
 | Procédure de test | Données d’entrée : Menu principal, départ de l'utilisateur Résultats attendus : Compte à rebourd lancé . Critères de validation : La vidéo par défault reprend ou elle c'était arrêtée 10 secondes apres le départ de l'utilisateur |
 | Résultat          |   |
  
-| Scénario 3 | L'utilisateur interragit avec le menu.  |
-|------------|---|
- 
+### Scénario 3 : L'utilisateur interragit avec le menu.
 | Identification    | 3.1  Choix du véhicule|
 |-------------------|---|
 | Priorité          | Faible  |
@@ -130,9 +122,7 @@ Si il y a un bris de matériel ou une partie du projet trop usé et que l'on doi
 | Procédure de test | Données d’entrée : Interraction utilisateur Résultats attendus : Changement de scène Critères de validation : Lancement de la course à l'écran |
 | Résultat          |   |
  
-| Scénario 4 | L'utilisateur interragit avec le vélo stationnaire  |
-|------------|---|
- 
+### Scénario 4 : L'utilisateur interragit avec le vélo stationnaire.
 | Identification    | 4.1  L'utilisateur pédale|
 |-------------------|---|
 | Priorité          | Extrême  |
