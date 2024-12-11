@@ -28,8 +28,7 @@ Plusieurs pistes de course différentes demandant véhicules, pièce et conduite
 Il y aurait aussi un bouton à gauche permettant de freiner le véhicule et un a droite permettant d’activer un turbo temporaire.
 
 ## Intégration au thème global
-Les circuits et les objets disponibles durant les courses auront tous un lien direct avec le thème de Résonance.
-En effet, les circuits, les véhicules, les effets visuels et sonores seront tous basé sur la résonance. 
+Les circuits et les objets disponibles pendant les courses seront étroitement liés au thème de la Résonance. Chaque élément, qu’il s’agisse des circuits, des véhicules ou encore des effets visuels et sonores, sera conçu pour refléter et mettre en valeur cette thématique centrale.
 
 # Artistique
 ## Ambiance
